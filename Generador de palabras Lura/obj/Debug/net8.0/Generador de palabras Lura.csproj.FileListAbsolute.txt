@@ -1,0 +1,28 @@
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.exe
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.deps.json
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.runtimeconfig.json
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.dll
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.pdb
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.AssemblyInfoInputs.cache
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.AssemblyInfo.cs
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.csproj.CoreCompileInputs.cache
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.dll
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\obj\Debug\net8.0\refint\Generador de palabras Lura.dll
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.pdb
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.genruntimeconfig.cache
+C:\Users\m_r_c\source\repos\Generador de palabras Lura\Generador de palabras Lura\obj\Debug\net8.0\ref\Generador de palabras Lura.dll
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.exe
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.deps.json
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.runtimeconfig.json
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.dll
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.pdb
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.AssemblyInfoInputs.cache
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.AssemblyInfo.cs
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.csproj.CoreCompileInputs.cache
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.dll
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Debug\net8.0\refint\Generador de palabras Lura.dll
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.pdb
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.genruntimeconfig.cache
+C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Debug\net8.0\ref\Generador de palabras Lura.dll

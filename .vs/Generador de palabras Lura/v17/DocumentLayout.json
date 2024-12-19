@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uczor\\OneDrive\\Desktop\\Nueva carpeta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FC40-5561-4DF7-B3E5-55F97CF265AF}|Generador de palabras Lura\\Generador de palabras Lura.csproj|c:\\users\\uczor\\onedrive\\desktop\\nueva carpeta\\generador de palabras lura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FC40-5561-4DF7-B3E5-55F97CF265AF}|Generador de palabras Lura\\Generador de palabras Lura.csproj|solutionrelative:generador de palabras lura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uczor\\OneDrive\\Desktop\\Nueva carpeta\\Generador de palabras Lura\\Program.cs",
+              "RelativeDocumentMoniker": "Generador de palabras Lura\\Program.cs",
+              "ToolTip": "C:\\Users\\uczor\\OneDrive\\Desktop\\Nueva carpeta\\Generador de palabras Lura\\Program.cs",
+              "RelativeToolTip": "Generador de palabras Lura\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:05:13.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
