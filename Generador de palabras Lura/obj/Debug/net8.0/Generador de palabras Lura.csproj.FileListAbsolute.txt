@@ -26,3 +26,18 @@ C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Deb
 C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.pdb
 C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.genruntimeconfig.cache
 C:\Users\uczor\OneDrive\Desktop\Nueva carpeta\Generador de palabras Lura\obj\Debug\net8.0\ref\Generador de palabras Lura.dll
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.exe
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.deps.json
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.runtimeconfig.json
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.dll
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\bin\Debug\net8.0\Generador de palabras Lura.pdb
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.AssemblyInfoInputs.cache
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.AssemblyInfo.cs
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.csproj.CoreCompileInputs.cache
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.sourcelink.json
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.dll
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\obj\Debug\net8.0\refint\Generador de palabras Lura.dll
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.pdb
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\obj\Debug\net8.0\Generador de palabras Lura.genruntimeconfig.cache
+D:\Portafolio\Programación\WordGenerator\WordGenerator\Generador de palabras Lura\obj\Debug\net8.0\ref\Generador de palabras Lura.dll
